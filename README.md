@@ -7,20 +7,19 @@ Bayonetta <3
 
 Im trash in Synthetik
 
-Projektbeschreibung:
+## Projektbeschreibung:
 Dies ist ein Kinderaddierer wo man mit ganzen Zahlen rechnen kann, eingebaut ist ein Berechnen button und reset button.
 
-Windows 11, Unity 2020.1.18f1, Visual Studios (Version 2019 Community) Zielplattform:
+Windows 11, Unity 2020.1.18f1, Visual Studios (Version 2019 Community) 
 
+## Zielplattform: 
 WebGL Referenzauflösung (960x600) Visuelle Einblicke in das Projekt: 
 
-Notwendiges für die Ausführung:
+## Notwendiges für die Ausführung:
 
-Script_Auschnitt Unity_Ausschnitt
+## Unity 2020.1.18f1 Drittmaterial:
 
-Unity 2020.1.18f1 Drittmaterial:
-
-Anforderungsliste:
+## Anforderungsliste:
 
 Ein funktionierender Addierer zweier Zahlen
 Ein funktionierender Reset Button
@@ -28,7 +27,7 @@ Ein funktionierender Calculate Button
 Eine Warnung bei ungültiger Eingabe
 Limitationen:
 
--- Lessons Learned:
+## Lessons Learned:
 
 wie addiere ich im script
 Verwendung von Buttons
