@@ -1,19 +1,17 @@
 # 06Ondic-KinderAddiererConsole
 Frohe Weihnachten :]
-
 und ein schönes Neues Jahr [:
-
 Bayonetta <3
-
 Im trash in Synthetik
 
 ## Projektbeschreibung:
-Dies ist ein Kinderaddierer wo man mit ganzen Zahlen rechnen kann, eingebaut ist ein Berechnen button und reset button.
+Dies ist ein Kinderaddierer wo man mit ganzen Zahlen rechnen kann, eingebaut ist ein Calculate button und reset button.
 
-Windows 11, Unity 2020.1.18f1, Visual Studios (Version 2019 Community) 
+Windows 1=, Unity 2020.1.18f1, Visual Studios 2019
 
 ## Zielplattform: 
 WebGL Referenzauflösung (960x600) Visuelle Einblicke in das Projekt: 
+![hdhdh](https://user-images.githubusercontent.com/91017666/152321856-ccf19098-1b93-4b7d-8600-8aaa0726bb2c.JPG)
 
 ## Notwendiges für die Ausführung:
 
@@ -21,19 +19,17 @@ WebGL Referenzauflösung (960x600) Visuelle Einblicke in das Projekt:
 
 ## Anforderungsliste:
 
-Ein funktionierender Addierer zweier Zahlen
+Ein funktionierender Addierer zweier ganzer Zahlen
 Ein funktionierender Reset Button
 Ein funktionierender Calculate Button
 Eine Warnung bei ungültiger Eingabe
-Limitationen:
 
 ## Lessons Learned:
 
-wie addiere ich im script
-Verwendung von Buttons
-Abfrage ob Input richtig ist
-InputFields aus script ändern
+Wie addiere ich Zahlen
+Buttons benutzen
+Abfrage bei falscher Eingabe
 Zugriff auf Kind Objekte
-push/pull mit Git
+puhs und pull mit Git cosole
 
 Copyright by me
